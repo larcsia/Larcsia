@@ -1,9 +1,4 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100">
-  ...
-</svg>
-
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=700&lines=ACCESS%20%E2%80%8B%20DENIED)
 
 ---
 
