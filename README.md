@@ -1,9 +1,7 @@
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: 100%;">
-
-  <!-- العمود الأول: الرسمة النصية التكتيكية (اليسار) -->
-  <div style="flex: 1; min-width: 50%; max-width: 55%; overflow-x: auto;">
-    <pre style="white-space: pre; word-wrap: normal; font-family: monospace; font-size: 11px; line-height: 1.2;">
-                                                   
+<table>
+  <tr>
+    <td valign="top">
+<pre>
                                          ..        
    +###############%#...  ...#####****#**@%*=      
    ***###*###*--*##***********#*#-*++**=*+%*#...   
@@ -23,11 +21,9 @@
                                     %*##*@%+@@#*#  
                                     *+%##%*+%%#*%  
                                     +*%#%%%#%%%*.  
-    </pre>
-  </div>
-
-  <!-- العمود الثاني: الكلام الملون البرمجي (اليمين) -->
-  <div style="flex: 1; min-width: 45%; max-width: 50%; padding-left: 15px;">
+</pre>
+    </td>
+    <td valign="top">
 
 # <font color="#FFFFFF">lara</font>
 ---
@@ -46,6 +42,6 @@
 * **Country:** <font color="#C0C0C0">Saudi Arabia</font>
 * **Languages:** <font color="#C0C0C0">Arabic, English</font>
 
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
