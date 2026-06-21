@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/access-denied.svg"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100">
+  ...
+</svg>
+
 
 
 ---
