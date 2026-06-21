@@ -1,4 +1,4 @@
-
+<img src="access-denied.svg"/>
 
 ---
 
