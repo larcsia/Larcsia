@@ -1,7 +1,8 @@
 <table>
   <tr>
-    <td valign="top" width="55%">
-<pre>
+    <td valign="top" width="50%" style="white-space: nowrap;">
+<!-- حماية أبعاد الرسمة النصية من التفكك -->
+<pre style="white-space: pre; overflow-x: auto;">
                                                    
                                          ..        
    +###############%#...  ...#####****#**@%*=      
@@ -24,7 +25,7 @@
                                     +*%#%%%#%%%*.  
 </pre>
     </td>
-    <td valign="top" width="45%">
+    <td valign="top" width="50%">
 
 # <font color="#FFFFFF">lara</font>
 ---
